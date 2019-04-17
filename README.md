@@ -3,7 +3,7 @@
 ### 1. Overview
 <p align="center"> <img src="https://github.com/muskie82/AR-Depth-cpp/blob/master/gif/file.gif" width="500" height="320"> </p>
 
-This is a C++ implementation of [Fast Depth Densification for Occlusion-aware Augmented Reality (SIGGRAPH 2018)](https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html).
+This is a C++ implementation of [Fast Depth Densification for Occlusion-aware Augmented Reality (SIGGRAPH 2018)](https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html) and [its python implementation](https://github.com/facebookresearch/AR-Depth).
 
 The code generates dense depth map from sparse depth points of visual SLAM by using variational method.
 
