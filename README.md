@@ -37,7 +37,7 @@ You can run sample program
 
 
 ### 4 Reference
-* **Fast Depth Densification for Occlusion-aware Augmented Reality**, *EAleksander Holynski and Johannes Kopf*, IACM Transactions on Graphics (Proc. SIGGRAPH Asia). (https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html)
+* **Fast Depth Densification for Occlusion-aware Augmented Reality**, *Aleksander Holynski and Johannes Kopf*, IACM Transactions on Graphics (Proc. SIGGRAPH Asia). (https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html)
 * **AR-Depth**, (https://github.com/facebookresearch/AR-Depth)
 
 ### 5 License
