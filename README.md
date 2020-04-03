@@ -19,8 +19,6 @@ Sample data is from [AR-Depth](https://github.com/facebookresearch/AR-Depth).
 
 		git clone https://github.com/muskie82/AR-Depth-cpp.git
 
-- Modify paths to include directories and libraries of TensorFlow in `CMakeLists.txt`.
-
 - Build
 
 		cd AR-Depth-cpp
