@@ -31,7 +31,7 @@ Sample data is from [AR-Depth](https://github.com/facebookresearch/AR-Depth).
 ### 3 Usage
 You can run sample program
 
-		./ARDepth
+		./AR_Depth /path/to/sample_data/frames /path/to/sample_data/reconsrtruction
 
 
 ### 4 Reference
